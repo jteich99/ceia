@@ -4,3 +4,6 @@
 [submodule "peia"]
 	path = peia
 	url = git@github.com:jteich99/peia.git
+[submodule "amia"]
+	path = amia
+	url = git@github.com:jteich99/amia.git
