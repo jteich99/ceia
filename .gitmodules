@@ -1,9 +1,12 @@
 [submodule "intro_ia"]
 	path = intro_ia
-	url = git@github.com:jteich99/intro_ia.git
+    url = git@github.com:jteich99/intro_ia.git
+    branch = main
 [submodule "peia"]
 	path = peia
 	url = git@github.com:jteich99/peia.git
+    branch = main
 [submodule "amia"]
 	path = amia
 	url = git@github.com:jteich99/amia.git
+    branch = main
