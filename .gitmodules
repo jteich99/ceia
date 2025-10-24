@@ -10,12 +10,6 @@
 	path = amia
 	url = git@github.com:jteich99/amia.git
     branch = main
-[submodule "deeplearning2"]
-	path = deeplearning2
-	url = git@github.com:jteich99/deeplearning.git
-[submodule "ml2"]
-	path = ml2
-	url = git@github.com:jteich99/machineLearning.git
 [submodule "data_analysis"]
 	path = data_analysis
 	url = git@github.com:jteich99/data_analysis.git
